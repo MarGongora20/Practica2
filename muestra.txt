@@ -1,1 +1,1 @@
-Este es el texto modificado de la rama master.
+Este es el texto modificado mostrando que el conflicto esta resuelto.
