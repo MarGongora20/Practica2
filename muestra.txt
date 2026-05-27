@@ -1,1 +1,1 @@
-Ahora hay texto aqui.
+Este es el texto modificado, desde la rama borrador.
